@@ -1,0 +1,6 @@
+@Demo.New.Features_HostAddress = http://localhost:5217
+
+GET {{Demo.New.Features_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
